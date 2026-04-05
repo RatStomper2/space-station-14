@@ -387,6 +387,8 @@ entities:
       dampingModifier: 0.25
     - type: ImplicitRoof
     - type: NavMap
+    - type: BecomesStation
+      id: StarlightPorcus
     - type: GridPathfinding
     - type: Gravity
       gravityShakeSound: !type:SoundPathSpecifier
